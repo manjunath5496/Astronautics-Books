@@ -148,8 +148,7 @@ of Astronaut Health</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(71).pdf" style="text-decoration:none;">The Best Time Travel Stories of the 20th Century</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(73).pdf" style="text-decoration:none;">Earthquake Thermodynamics and Phase
-Transformations in the Earth's Interior</a></li>
+
 
 
 
