@@ -100,7 +100,7 @@ Impairments in Astronauts</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(49).pdf" style="text-decoration:none;">The Way of the Explorer: An Apollo Astronaut's Journey Through the Material and Mystical Worlds</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(50).pdf" style="text-decoration:none;">A Disastrous History Of The World: Chronicles Of War, Earthquake, Plague And Flood</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(50).pdf" style="text-decoration:none;">In the Shadow of the Moon: A Challenging Journey to Tranquility, 1965-1969</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(51).pdf" style="text-decoration:none;">Inventing the American Astronaut</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(52).pdf" style="text-decoration:none;">Introduction to Astronautics: Mechanics of Solar System Flight</a></li> 
@@ -116,7 +116,7 @@ of Astronaut Health</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(56).pdf" style="text-decoration:none;">God is an Astronaut</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(57).pdf" style="text-decoration:none;">Earthquake Geotechnical Engineering Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(57).pdf" style="text-decoration:none;">Columbia, Final Voyage: The Last Flight of NASA's First Space Shuttle</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(58).pdf" style="text-decoration:none;">United Nations treaties and principles on outer space</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(59).pdf" style="text-decoration:none;">Dynamics of Explosions (Progress in Astronautics and Aeronautics, vol 114)</a></li> 
  
@@ -142,11 +142,11 @@ of Astronaut Health</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(70).pdf" style="text-decoration:none;">Astronautics: The Physics of Space Flight</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(71).pdf" style="text-decoration:none;">What's It Like in Space? Stories from Astronauts Who've Been There</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(72).pdf" style="text-decoration:none;">What's It Like in Space? Stories from Astronauts Who've Been There</a></li>
 
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(72).pdf" style="text-decoration:none;">The San Francisco Earthquake and Fire of 1906 (Great Historic Disasters)</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(71).pdf" style="text-decoration:none;">The Best Time Travel Stories of the 20th Century</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Astronautics-Books/blob/master/asn(73).pdf" style="text-decoration:none;">Earthquake Thermodynamics and Phase
 Transformations in the Earth's Interior</a></li>
